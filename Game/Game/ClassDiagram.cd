@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Animation" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgQAAAAAAACAAgAIAQAAAAAAAAAAAAAAAQAAAAEU=</HashCode>
+      <FileName>Animation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boom" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAQAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Boom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIBAAAARAAAAAAAgAgEABAIAAAAAAAAIAA=</HashCode>
+      <FileName>Boss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossBullet" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIACAAAAAAAAAAAAAgBAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>BossBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyPlane4" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIAAAACAAAAAAAAgAgEAAAIAAAAAAAAMAA=</HashCode>
+      <FileName>EnemyPlane4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyPlane5" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIEAAAAAAAAAAAAgAgEAAAIAAAAAAAAMAA=</HashCode>
+      <FileName>EnemyPlane5.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explosion" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAACAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laser" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAABAAAQAAAAAAAAAAAAAAAEAAAAQAAAAAA=</HashCode>
+      <FileName>Laser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAABACAAAAAAAAAAAAAAAAAEAAAAAAAQAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyBullet" Collapsed="true">
+    <Position X="34.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAAACAAAA=</HashCode>
+      <FileName>EnemyBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyHealth" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>EnemyHealth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyPlane1" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIAAAQAAAAAAAAAgAgEAAAIAAAAAAAAMAA=</HashCode>
+      <FileName>EnemyPlane1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyPlane2" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIAAgAAAAAAAAAAgAgEAAAIAAAAAAAAMAA=</HashCode>
+      <FileName>EnemyPlane2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyPlane3" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIAAAAAAAAAAAAAgAgEAAAIAAAAABAAMAA=</HashCode>
+      <FileName>EnemyPlane3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObjectManager" Collapsed="true">
+    <Position X="40.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAEAABAAAAABAAICBEAgAAAIAACEAAAAAA=</HashCode>
+      <FileName>GameObjectManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="39" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAABIAAAAABgQQAAACAABAEAAAQAAAAAEACBAAA=</HashCode>
+      <FileName>gamestart.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="42.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAgAAAQEAA=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Operate" Collapsed="true">
+    <Position X="39" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAgAAAAAAAAAAAAAAAAAiAAAAEAA=</HashCode>
+      <FileName>Operate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerHealth" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerHealth.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerPlane" Collapsed="true">
+    <Position X="36.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAABAAIAIBAgAAAQAAAQAIACAAAEAQIAACAAABAAA=</HashCode>
+      <FileName>PlayerPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStars" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>PlayerStars.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Son" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAAAIAQAAACAAAAAAAgAgEAQAIAAAAAAAAIAA=</HashCode>
+      <FileName>Son.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SplashScreen" Collapsed="true">
+    <Position X="40.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAABAACAAAAAAAAAAAAEAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>SplashScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisibleGameObject" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBoAAACCAAEwQIAAAAAABAAQAAQgQAAAEAAEAAAAA=</HashCode>
+      <FileName>VisibleGameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>
